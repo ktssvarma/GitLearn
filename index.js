@@ -6,9 +6,6 @@ const index = () => {
     <View>
       <Text>index 1234567654321</Text>
     </View>
-    
-
-    
   )
 }
 
