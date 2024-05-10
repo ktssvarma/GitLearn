@@ -4,11 +4,11 @@ import React from 'react'
 const index = () => {
   return (
     <View>
-      <Text>index 1234567654321</Text>
+      <Text>index Space removed</Text>
+      <Text>index Space removed</Text>
+      <Text>index Space removed</Text>
+      <Text>index Space removed</Text>
     </View>
-    
-
-    
   )
 }
 
