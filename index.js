@@ -5,6 +5,9 @@ const index = () => {
   return (
     <View>
       <Text>index Space removed</Text>
+      <Text>index Space removed</Text>
+      <Text>index Space removed</Text>
+      <Text>index Space removed</Text>
     </View>
   )
 }
